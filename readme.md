@@ -23,7 +23,7 @@
 
 > Rearrange the fications in the order of priority. Renumber the directories to match and adjust the folder links. This will ensure the export matches the game's priorities.
 
-## [Changeling](./#-Changeling/readme.md)
+## [Changeling](./dd-Changeling/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -39,7 +39,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Garou](./#-Garou/readme.md)
+## [Garou](./dd-Garou/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -55,7 +55,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Hunter](./#-Hunter/readme.md)
+## [Hunter](./dd-Hunter/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -72,7 +72,7 @@
 - [Conflict elements players should expect.]
 
 
-## [Mage](./#-Mage/readme.md)
+## [Mage](./dd-Mage/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -88,7 +88,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Other](./#-Other/)
+## [Other](./dd-Other/)
 
 [Short summary of faction presence and agenda.]
 
@@ -104,7 +104,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Vampire](./#-Vampire/readme.md)
+## [Vampire](./dd-Vampire/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -120,7 +120,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Wraith](./#-Wraith/readme.md)
+## [Wraith](./dd-Wraith/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -167,8 +167,6 @@
 
 ### Regional Oddities
 - **Special Features**: [Veil-breaches, hidden caerns, ancient scars.]
-
----
 
 ## Themes to Expect
 
