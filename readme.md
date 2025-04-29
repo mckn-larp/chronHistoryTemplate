@@ -55,7 +55,7 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
-## [Garou](./#-Hunter/readme.md)
+## [Hunter](./#-Hunter/readme.md)
 
 [Short summary of faction presence and agenda.]
 
