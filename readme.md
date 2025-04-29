@@ -21,7 +21,9 @@
 
 ## Key Factions
 
-## [Faction 1 Name](./[Link to Faction Readme])
+> Rearrange the fications in the order of priority. Renumber the directories to match and adjust the folder links. This will ensure the export matches the game's priorities.
+
+## [Changeling](./#-Changeling/readme.md)
 
 [Short summary of faction presence and agenda.]
 
@@ -37,31 +39,102 @@
 - [Tone bullet points: What it *feels* like to play this faction.]
 - [Conflict elements players should expect.]
 
----
+## [Garou](./#-Garou/readme.md)
 
-## [Faction 2 Name](./[Link to Faction Readme])
+[Short summary of faction presence and agenda.]
 
-[Summary, key places, goals, player notes.]
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
 
----
+### Goals
+- [Bullet list of 3–5 main faction goals.]
 
-## [Faction 3 Name](./[Link to Faction Readme])
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
 
-[Summary, key places, goals, player notes.]
+## [Garou](./#-Hunter/readme.md)
 
----
+[Short summary of faction presence and agenda.]
 
-## [Faction 4 Name](./[Link to Faction Readme])
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
 
-[Summary, key places, goals, player notes.]
+### Goals
+- [Bullet list of 3–5 main faction goals.]
 
----
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
 
-## [Faction 5 Name](./[Link to Faction Readme])
 
-[Summary, key places, goals, player notes.]
+## [Mage](./#-Mage/readme.md)
 
----
+[Short summary of faction presence and agenda.]
+
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
+
+### Goals
+- [Bullet list of 3–5 main faction goals.]
+
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
+
+## [Other](./#-Other/)
+
+[Short summary of faction presence and agenda.]
+
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
+
+### Goals
+- [Bullet list of 3–5 main faction goals.]
+
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
+
+## [Vampire](./#-Vampire/readme.md)
+
+[Short summary of faction presence and agenda.]
+
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
+
+### Goals
+- [Bullet list of 3–5 main faction goals.]
+
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
+
+## [Wraith](./#-Wraith/readme.md)
+
+[Short summary of faction presence and agenda.]
+
+### Key Places
+- **Location 1**: [Quick description.]
+- **Location 2**: [Quick description.]
+- **Location 3**: [Quick description.]
+
+### Goals
+- [Bullet list of 3–5 main faction goals.]
+
+### For Players
+- [Tone bullet points: What it *feels* like to play this faction.]
+- [Conflict elements players should expect.]
 
 ## [Territory & Cosmology](./7-Cosmology/readme.md)
 
